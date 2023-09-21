@@ -1,2 +1,2 @@
 # auth-project
-Project about auth using context
+Project about auth using context API
